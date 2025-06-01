@@ -17,6 +17,28 @@ It demonstrates the basics of:
 - Building and running a Docker image locally
 
 ---
+## Prerequisites: Installing Docker on macOS
+
+If you don't have Docker installed on your Mac, follow these steps:
+
+1. **Download Docker Desktop for Mac:**
+
+   Go to the official Docker website:  
+   [https://docs.docker.com/desktop/install/mac-install/](https://docs.docker.com/desktop/install/mac-install/)
+
+2. **Install Docker:**
+
+   - Open the downloaded `.dmg` file
+   - Drag and drop the Docker icon into the Applications folder
+   - Launch Docker from Applications
+
+3. **Verify installation:**
+
+   Open Terminal and run:  
+   ```bash
+   docker --version
+
+---
 
 ## Project files
 
